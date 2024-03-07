@@ -13,3 +13,6 @@ Application is hosted on render.com for free , so instance will spin down with i
 Backend for project Nest.js
 
 npm run start:dev
+
+BD - SQlite
+ORM - Prisma
